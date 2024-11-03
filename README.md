@@ -45,3 +45,7 @@ If you find any issues or have suggestions for improvements, please feel free to
 ## License
 
 This project is open-source
+
+## Link
+
+- https://kiyoraka.github.io/P2P-Exchange-Calculator/
