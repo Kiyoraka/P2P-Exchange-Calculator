@@ -1,3 +1,9 @@
+function updateLabels() {
+  const currencySymbol = document.getElementById('currency-symbol').value;
+  document.getElementById('your-rate-label').textContent = `Your Exchange Rate (${currencySymbol}/USDT):`;
+  document.getElementById('current-rate-label').textContent = `Current Market Rate (${currencySymbol}/USDT):`;
+}
+
 function calculate() {
   const transactionType = document.getElementById('transaction-type').value;
   const yourRate = parseFloat(document.getElementById('your-rate').value);
@@ -38,3 +44,5 @@ function calculate() {
   resultDiv.textContent = message;
   resultDiv.className = resultClass;
 }
+
+document.getElementById('currency-symbol').addEventListener('input', updateLabels);
