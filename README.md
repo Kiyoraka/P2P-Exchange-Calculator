@@ -21,7 +21,7 @@ To use the P2P Exchange Calculator, simply open the `index.html` file in your we
 4. Enter the amount of USDT you bought or sold.
 5. Click the "Calculate" button to see the result.
 
-The calculator will display a message indicating the potential loss or gain based on the provided information. The message will be color-coded: red for a loss, green for a gain, and blue if there's no change. The MYR indicate Malaysian Currency so you can change based on your country.
+The calculator will display a message indicating the potential loss or gain based on the provided information. The message will be color-coded: red for a loss, green for a gain, and blue if there's no change. 
 
 ## Files
 
