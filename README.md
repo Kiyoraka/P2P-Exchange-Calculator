@@ -11,7 +11,7 @@ A simple web-based calculator to determine the potential loss or gain from buyin
 
 ## Getting Started
 
-To use the P2P Exchange Calculator, simply open the `index.html` file in your web browser. No additional setup or installation is required.
+To use the P2P Exchange Calculator, simply open the `[index.html](https://kiyoraka.github.io/P2P-Exchange-Calculator/)` file in your web browser. No additional setup or installation is required.
 
 ## Usage
 
@@ -46,6 +46,3 @@ If you find any issues or have suggestions for improvements, please feel free to
 
 This project is open-source
 
-## Link
-
-- https://kiyoraka.github.io/P2P-Exchange-Calculator/
