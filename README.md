@@ -17,11 +17,12 @@ To use the P2P Exchange Calculator, simply open the `index.html` file in your we
 
 1. Select the transaction type (Buy or Sell) from the dropdown menu.
 2. Enter your exchange rate (MYR/USDT) at which you bought or sold USDT.
-3. Enter the current market exchange rate (MYR/USDT).
+3. Enter the currency symbol for your local currency (e.g., MYR, USD, EUR).
+4. Enter the current market exchange rate (YourCurrency/USDT).
 4. Enter the amount of USDT you bought or sold.
 5. Click the "Calculate" button to see the result.
 
-The calculator will display a message indicating the potential loss or gain based on the provided information. The message will be color-coded: red for a loss, green for a gain, and blue if there's no change. 
+The calculator will display a message indicating the potential loss or gain based on the provided information. The message will be color-coded: red for a loss, green for a gain, and blue if there's no change.
 
 ## Files
 
@@ -43,4 +44,4 @@ If you find any issues or have suggestions for improvements, please feel free to
 
 ## License
 
-This project is open-source 
+This project is open-source
